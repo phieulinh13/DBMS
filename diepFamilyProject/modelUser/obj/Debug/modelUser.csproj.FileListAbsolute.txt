@@ -1,0 +1,18 @@
+C:\Users\baong\Desktop\MON_HOC\DBMS\FINAL_PROJECT\Code\diepFamilyProject\modelUser\bin\Debug\modelUser.dll
+C:\Users\baong\Desktop\MON_HOC\DBMS\FINAL_PROJECT\Code\diepFamilyProject\modelUser\bin\Debug\modelUser.pdb
+C:\Users\baong\Desktop\MON_HOC\DBMS\FINAL_PROJECT\Code\diepFamilyProject\modelUser\bin\Debug\DBProvider.dll
+C:\Users\baong\Desktop\MON_HOC\DBMS\FINAL_PROJECT\Code\diepFamilyProject\modelUser\bin\Debug\DBProvider.pdb
+C:\Users\baong\Desktop\MON_HOC\DBMS\FINAL_PROJECT\Code\diepFamilyProject\modelUser\obj\Debug\modelUser.csprojAssemblyReference.cache
+C:\Users\baong\Desktop\MON_HOC\DBMS\FINAL_PROJECT\Code\diepFamilyProject\modelUser\obj\Debug\modelUser.csproj.CoreCompileInputs.cache
+C:\Users\baong\Desktop\MON_HOC\DBMS\FINAL_PROJECT\Code\diepFamilyProject\modelUser\obj\Debug\modelUser.csproj.CopyComplete
+C:\Users\baong\Desktop\MON_HOC\DBMS\FINAL_PROJECT\Code\diepFamilyProject\modelUser\obj\Debug\modelUser.dll
+C:\Users\baong\Desktop\MON_HOC\DBMS\FINAL_PROJECT\Code\diepFamilyProject\modelUser\obj\Debug\modelUser.pdb
+D:\DBMS\Đồ án\diepFamilyProject\modelUser\obj\Debug\modelUser.csproj.AssemblyReference.cache
+D:\DBMS\Đồ án\diepFamilyProject\modelUser\obj\Debug\modelUser.csproj.CoreCompileInputs.cache
+D:\DBMS\Đồ án\diepFamilyProject\modelUser\obj\Debug\modelUser.dll
+D:\DBMS\Đồ án\diepFamilyProject\modelUser\obj\Debug\modelUser.pdb
+D:\DBMS\Đồ án\diepFamilyProject\modelUser\bin\Debug\modelUser.dll
+D:\DBMS\Đồ án\diepFamilyProject\modelUser\bin\Debug\modelUser.pdb
+D:\DBMS\Đồ án\diepFamilyProject\modelUser\bin\Debug\DBProvider.dll
+D:\DBMS\Đồ án\diepFamilyProject\modelUser\bin\Debug\DBProvider.pdb
+D:\DBMS\Đồ án\diepFamilyProject\modelUser\obj\Debug\modelUser.csproj.CopyComplete

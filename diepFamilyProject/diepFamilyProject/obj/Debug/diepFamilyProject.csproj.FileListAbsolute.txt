@@ -1,0 +1,31 @@
+C:\Users\baong\Desktop\MON_HOC\DBMS\FINAL_PROJECT\Code\diepFamilyProject\diepFamilyProject\bin\Debug\diepFamilyProject.exe.config
+C:\Users\baong\Desktop\MON_HOC\DBMS\FINAL_PROJECT\Code\diepFamilyProject\diepFamilyProject\bin\Debug\diepFamilyProject.exe
+C:\Users\baong\Desktop\MON_HOC\DBMS\FINAL_PROJECT\Code\diepFamilyProject\diepFamilyProject\bin\Debug\diepFamilyProject.pdb
+C:\Users\baong\Desktop\MON_HOC\DBMS\FINAL_PROJECT\Code\diepFamilyProject\diepFamilyProject\obj\Debug\diepFamilyProject.csprojAssemblyReference.cache
+C:\Users\baong\Desktop\MON_HOC\DBMS\FINAL_PROJECT\Code\diepFamilyProject\diepFamilyProject\obj\Debug\diepFamilyProject.Properties.Resources.resources
+C:\Users\baong\Desktop\MON_HOC\DBMS\FINAL_PROJECT\Code\diepFamilyProject\diepFamilyProject\obj\Debug\diepFamilyProject.csproj.GenerateResource.cache
+C:\Users\baong\Desktop\MON_HOC\DBMS\FINAL_PROJECT\Code\diepFamilyProject\diepFamilyProject\obj\Debug\diepFamilyProject.csproj.CoreCompileInputs.cache
+C:\Users\baong\Desktop\MON_HOC\DBMS\FINAL_PROJECT\Code\diepFamilyProject\diepFamilyProject\obj\Debug\diepFamilyProject.exe
+C:\Users\baong\Desktop\MON_HOC\DBMS\FINAL_PROJECT\Code\diepFamilyProject\diepFamilyProject\obj\Debug\diepFamilyProject.pdb
+C:\Users\baong\Desktop\MON_HOC\DBMS\FINAL_PROJECT\Code\diepFamilyProject\diepFamilyProject\bin\Debug\DBProvider.dll
+C:\Users\baong\Desktop\MON_HOC\DBMS\FINAL_PROJECT\Code\diepFamilyProject\diepFamilyProject\bin\Debug\DBProvider.pdb
+C:\Users\baong\Desktop\MON_HOC\DBMS\FINAL_PROJECT\Code\diepFamilyProject\diepFamilyProject\obj\Debug\diepFamilyProject.csproj.CopyComplete
+C:\Users\baong\Desktop\MON_HOC\DBMS\FINAL_PROJECT\Code\diepFamilyProject\diepFamilyProject\bin\Debug\modelUser.dll
+C:\Users\baong\Desktop\MON_HOC\DBMS\FINAL_PROJECT\Code\diepFamilyProject\diepFamilyProject\bin\Debug\modelUser.pdb
+C:\Users\baong\Desktop\MON_HOC\DBMS\FINAL_PROJECT\Code\diepFamilyProject\diepFamilyProject\obj\Debug\diepFamilyProject.Form1.resources
+D:\DBMS\Đồ án\diepFamilyProject\diepFamilyProject\bin\Debug\diepFamilyProject.exe.config
+D:\DBMS\Đồ án\diepFamilyProject\diepFamilyProject\bin\Debug\diepFamilyProject.exe
+D:\DBMS\Đồ án\diepFamilyProject\diepFamilyProject\bin\Debug\diepFamilyProject.pdb
+D:\DBMS\Đồ án\diepFamilyProject\diepFamilyProject\bin\Debug\DBProvider.dll
+D:\DBMS\Đồ án\diepFamilyProject\diepFamilyProject\bin\Debug\modelUser.dll
+D:\DBMS\Đồ án\diepFamilyProject\diepFamilyProject\bin\Debug\DBProvider.pdb
+D:\DBMS\Đồ án\diepFamilyProject\diepFamilyProject\bin\Debug\modelUser.pdb
+D:\DBMS\Đồ án\diepFamilyProject\diepFamilyProject\obj\Debug\diepFamilyProject.csproj.AssemblyReference.cache
+D:\DBMS\Đồ án\diepFamilyProject\diepFamilyProject\obj\Debug\diepFamilyProject.Properties.Resources.resources
+D:\DBMS\Đồ án\diepFamilyProject\diepFamilyProject\obj\Debug\diepFamilyProject.Form1.resources
+D:\DBMS\Đồ án\diepFamilyProject\diepFamilyProject\obj\Debug\diepFamilyProject.csproj.GenerateResource.cache
+D:\DBMS\Đồ án\diepFamilyProject\diepFamilyProject\obj\Debug\diepFamilyProject.csproj.CoreCompileInputs.cache
+D:\DBMS\Đồ án\diepFamilyProject\diepFamilyProject\obj\Debug\diepFamilyProject.csproj.CopyComplete
+D:\DBMS\Đồ án\diepFamilyProject\diepFamilyProject\obj\Debug\diepFamilyProject.exe
+D:\DBMS\Đồ án\diepFamilyProject\diepFamilyProject\obj\Debug\diepFamilyProject.pdb
+D:\DBMS\Đồ án\diepFamilyProject\diepFamilyProject\obj\Debug\diepFamilyProject.QLUser.resources
