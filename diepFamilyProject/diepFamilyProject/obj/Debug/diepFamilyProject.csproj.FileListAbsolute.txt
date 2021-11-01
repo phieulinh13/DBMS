@@ -28,4 +28,5 @@ D:\DBMS\Đồ án\diepFamilyProject\diepFamilyProject\obj\Debug\diepFamilyProjec
 D:\DBMS\Đồ án\diepFamilyProject\diepFamilyProject\obj\Debug\diepFamilyProject.csproj.CopyComplete
 D:\DBMS\Đồ án\diepFamilyProject\diepFamilyProject\obj\Debug\diepFamilyProject.exe
 D:\DBMS\Đồ án\diepFamilyProject\diepFamilyProject\obj\Debug\diepFamilyProject.pdb
-D:\DBMS\Đồ án\diepFamilyProject\diepFamilyProject\obj\Debug\diepFamilyProject.QLUser.resources
+D:\DBMS\Đồ án\diepFamilyProject\diepFamilyProject\obj\Debug\diepFamilyProject.DSUser.resources
+D:\DBMS\Đồ án\diepFamilyProject\diepFamilyProject\obj\Debug\diepFamilyProject.User.resources
